@@ -1,0 +1,5 @@
+My name is Raju
+I am practicing Git
+
+Adding some changes to file1
+
